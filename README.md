@@ -16,5 +16,14 @@ Finally it is really important to update our “AndroidManifest.xml” to use th
     android:theme="@style/AppTheme"<br>
     android:name=".getContext"<br>
     &gt;
-	
 
+Any question c.bobadilla@ideltas.com or cesarbobadillamedina@gmail.com
+
+<h1>How to use it</h1>
+"main" it is the file, inside "nameprojectapp/app/src"<br>
+"demo" it is the file to upload into the apache server to use as a cloud.<br>
+
+<h1>Contribution</h1>
+
+1. Fork the code with people who need it<br>
+2. 
