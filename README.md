@@ -7,12 +7,12 @@ The “AsyncWeb” class shows by toast method a first message using the class �
 Finally it is really important to update our “AndroidManifest.xml” to use this Application subclass, for instance in this example:
 
 <application
-    android:allowBackup="true"
-    android:icon="@mipmap/ic_launcher"
-    android:label="@string/app_name"
-    android:roundIcon="@mipmap/ic_launcher_round"
-    android:supportsRtl="true"
-    android:theme="@style/AppTheme"
+android:allowBackup="true"
+android:icon="@mipmap/ic_launcher"
+android:label="@string/app_name"
+android:roundIcon="@mipmap/ic_launcher_round"
+android:supportsRtl="true"
+android:theme="@style/AppTheme"
     android:name=".getContext" <!—this line it is really importamt
     >
 
