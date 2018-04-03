@@ -26,4 +26,4 @@ Any question c.bobadilla@ideltas.com or cesarbobadillamedina@gmail.com
 <h1>Contribution</h1>
 
 1. Fork the code with people who need it<br>
-2. 
+2. Suggest improvements by email to c.bobadilla@ideltas.com
